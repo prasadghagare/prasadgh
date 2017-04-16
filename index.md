@@ -11,14 +11,10 @@ Agile XFT member working in Software development and testing of an OSS domain pr
 
 
 
-- **Languages** - _Python, Java, C, SQL, Mediation Zone APL_
-- **Operating Systems** - _Linux, Solaris, Windows 7_
-- **DB management Systems** - _Sybase IQ, MySQL, SQLITE3_
-- **Project Management** - _tlassian JIRA, Confluence_
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+ **Languages** - Python, Java, C, SQL, Mediation Zone APL
+ **Operating Systems** - Linux, Solaris, Windows 7
+ **DB management Systems** - Sybase IQ, MySQL, SQLITE3
+ **Project Management** - Atlassian JIRA, Confluence
 
 ```
 
